@@ -27,7 +27,6 @@ I’m a **Computer Science student at Florida International University** passion
 
 ## 📊 GitHub Stats:
 ![Ameer’s GitHub stats](https://github-readme-stats.vercel.app/api?username=captainameerica&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=captainameerica&layout=compact&theme=tokyonight&hide_border=true)
 ![Streak](https://streak-stats.demolab.com?user=captainameerica&theme=tokyonight&hide_border=true)
 
 ---
